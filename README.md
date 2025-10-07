@@ -138,10 +138,7 @@ IGNORE 1 LINES;
 * Build **Power BI dashboard** for interactive KPIs
 * Automate report generation for stakeholders
 ---
-## Power Bi Attractive Dashboard PNG 
 
-("")
----
 
 ##  Author
 
