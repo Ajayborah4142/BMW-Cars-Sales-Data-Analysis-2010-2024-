@@ -137,7 +137,10 @@ IGNORE 1 LINES;
 * Integrate **Python (Pandas + Matplotlib)** for visual analytics
 * Build **Power BI dashboard** for interactive KPIs
 * Automate report generation for stakeholders
+---
+## Power Bi Attractive Dashboard PNG 
 
+("")
 ---
 
 ##  Author
