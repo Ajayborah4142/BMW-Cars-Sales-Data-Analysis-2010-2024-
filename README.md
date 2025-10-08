@@ -8,6 +8,10 @@ The dataset includes variables such as model, region, fuel type, transmission, e
 
 ---
 
+![BMW Sales Data](https://github.com/Ajayborah4142/BMW-Cars-Sales-Data-Analysis-2010-2024-/blob/main/oweWz5.jpg)
+
+---
+
 ##  Database Setup
 
 ### 1️ Create Database and Table
